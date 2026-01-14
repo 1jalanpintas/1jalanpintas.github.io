@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Komunitas Game & Hiburan Digital</title>
+  <meta name="description" content="Komunitas diskusi dan sharing seputar game online dan hiburan digital.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: linear-gradient(135deg, #0f172a, #020617);
+      color: #e5e7eb;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 420px;
+      background: rgba(15, 23, 42, 0.9);
+      border-radius: 14px;
+      padding: 32px 26px;
+      text-align: center;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+    }
+
+    h1 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 15px;
+      line-height: 1.6;
+      color: #cbd5f5;
+      margin-bottom: 22px;
+    }
+
+    .btn {
+      display: block;
+      margin: 0 auto;
+      padding: 14px 20px;
+      background: #2563eb;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: bold;
+      font-size: 16px;
+      transition: background 0.2s ease;
+    }
+
+    .btn:hover {
+      background: #1d4ed8;
+    }
+
+    .footer {
+      margin-top: 22px;
+      font-size: 12px;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>🎮 Komunitas Game & Hiburan Digital</h1>
+
+    <p>
+      Tempat diskusi, sharing pengalaman, dan update seputar
+      game online serta hiburan digital berbasis komunitas.
+    </p>
+
+    <a
+      class="btn"
+      href="https://discord.com/channels/1460906119085035625/1460906120439922749"
+      target="_blank"
+      rel="noopener"
+    >
+      👉 Join Discord Community
+    </a>
+
+    <div class="footer">
+      Konten bersifat komunitas & hiburan.<br>
+      Gunakan waktu dengan bijak.
+    </div>
+  </div>
+</body>
+</html>
